@@ -1,4 +1,4 @@
-### Business goal - prroducing e-receipts for businesses
+### Business goal - prroducing e-receipts and keeping transaction records for businesses
 
 ### user goal - generating receipts for clients
 
