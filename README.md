@@ -1,5 +1,5 @@
-# invoice_generator-
+# Invoice_generator
 
-## Project - Incoice Generator
+## Project - Invoice Generator
 ## Purpose - Service
 ## Owner - Personal
